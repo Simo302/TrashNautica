@@ -375,34 +375,6 @@ assets:
             isBlank: false
             source: >-
               C:\Users\nekosnugz\ct.js\Projects\GreenGame_finale_finale_veramente_ultimissimo_nonscherzo\GreenGame_finale_finale_veramente_ultimissimo_nonscherzo\img\UI\9-Slice\Ancient\grey_pressed.png
-          - lastmod: 1774250722742
-            type: texture
-            name: Medusa
-            untill: 0
-            grid:
-              - 1
-              - 1
-            axis:
-              - 32
-              - 32
-            marginx: 0
-            marginy: 0
-            imgWidth: 64
-            imgHeight: 64
-            width: 64
-            height: 64
-            offx: 0
-            offy: 0
-            origname: i7Krn257QNQT37Q.png
-            shape: circle
-            left: 32
-            right: 32
-            top: 32
-            bottom: 32
-            uid: 7Krn257QNQT37Q
-            padding: 1
-            isBlank: false
-            r: 32
           - lastmod: 1774259800643
             type: texture
             name: terreno_05
@@ -552,6 +524,193 @@ assets:
             padding: 1
             isBlank: false
             r: 28
+          - lastmod: 1775405673439
+            type: texture
+            name: Spazzatura_piccola
+            untill: 0
+            grid:
+              - 1
+              - 1
+            axis:
+              - 32
+              - 32
+            marginx: 0
+            marginy: 0
+            imgWidth: 64
+            imgHeight: 64
+            width: 64
+            height: 64
+            offx: 0
+            offy: 0
+            origname: if6C1t9dPCH6rwz.png
+            shape: circle
+            left: 32
+            right: 32
+            top: 32
+            bottom: 32
+            uid: f6C1t9dPCH6rwz
+            padding: 1
+            isBlank: false
+            r: 26
+          - lastmod: 1775406271576
+            type: texture
+            name: Bolle
+            untill: 0
+            grid:
+              - 1
+              - 1
+            axis:
+              - 12
+              - 12
+            marginx: 0
+            marginy: 0
+            imgWidth: 24
+            imgHeight: 24
+            width: 24
+            height: 24
+            offx: 0
+            offy: 0
+            origname: iRTT9rNng3HQmPJ.png
+            shape: circle
+            left: 0
+            right: 64
+            top: 0
+            bottom: 64
+            uid: RTT9rNng3HQmPJ
+            padding: 1
+            isBlank: false
+            source: >-
+              C:\Users\nekosnugz\Desktop\texturePackForTrashNautica\Bubble\bubble.png
+            r: 11
+          - lastmod: 1775406438668
+            type: texture
+            name: Guppyfeesh
+            untill: 0
+            grid:
+              - 1
+              - 1
+            axis:
+              - 0
+              - 0
+            marginx: 0
+            marginy: 0
+            imgWidth: 301
+            imgHeight: 322
+            width: 301
+            height: 322
+            offx: 0
+            offy: 0
+            origname: ibh13rLKpgfWkmm.png
+            shape: rect
+            left: 0
+            right: 301
+            top: 0
+            bottom: 322
+            uid: bh13rLKpgfWkmm
+            padding: 1
+            isBlank: false
+            source: >-
+              C:\Users\nekosnugz\Desktop\texturePackForTrashNautica\il resto
+              degli sprite\Guppyfeesh.png
+          - lastmod: 1775407146612
+            type: texture
+            name: Medusa
+            untill: 5
+            grid:
+              - 7
+              - 5
+            axis:
+              - 8
+              - 8
+            marginx: 16
+            marginy: 16
+            imgWidth: 224
+            imgHeight: 160
+            width: 16
+            height: 17
+            offx: 8
+            offy: 8
+            origname: iGgCk1fwPDqDpj8.png
+            shape: circle
+            left: 0
+            right: 224
+            top: 0
+            bottom: 160
+            uid: GgCk1fwPDqDpj8
+            padding: 1
+            isBlank: false
+            source: >-
+              C:\Users\nekosnugz\Desktop\texturePackForTrashNautica\il resto
+              degli sprite\Jellyfish Sprite Sheet.png
+            r: 8
+          - type: folder
+            uid: MBrw56WDpmcwLW
+            colorClass: act
+            icon: help-circle
+            name: Spazzatura
+            lastmod: 1775407409466
+            entries:
+              - lastmod: 1775406406744
+                type: texture
+                name: SaccoNero1
+                untill: 0
+                grid:
+                  - 1
+                  - 1
+                axis:
+                  - 15
+                  - 17
+                marginx: 0
+                marginy: 0
+                imgWidth: 30
+                imgHeight: 34
+                width: 30
+                height: 34
+                offx: 0
+                offy: 0
+                origname: i2JtFWz3rPzL3R7.png
+                shape: circle
+                left: 11
+                right: 11
+                top: 11
+                bottom: 15
+                uid: 2JtFWz3rPzL3R7
+                padding: 1
+                isBlank: false
+                r: 13
+                source: >-
+                  C:\Users\nekosnugz\Desktop\texturePackForTrashNautica\Spazzatura\Trash
+                  Bag 1.png
+              - lastmod: 1775407425301
+                type: texture
+                name: tire
+                untill: 0
+                grid:
+                  - 1
+                  - 1
+                axis:
+                  - 0
+                  - 0
+                marginx: 0
+                marginy: 0
+                imgWidth: 32
+                imgHeight: 32
+                width: 32
+                height: 32
+                offx: 0
+                offy: 0
+                origname: iDBPgmfzQKCKwqJ.png
+                shape: rect
+                left: 0
+                right: 32
+                top: 0
+                bottom: 32
+                uid: DBPgmfzQKCKwqJ
+                padding: 1
+                isBlank: false
+                source: >-
+                  C:\Users\nekosnugz\Desktop\texturePackForTrashNautica\il resto
+                  degli sprite\tire.png
       - type: folder
         uid: r75phJ99KmB7KH
         colorClass: accent1
@@ -673,10 +832,10 @@ assets:
             baseClass: AnimatedSprite
             name: Medusa
             depth: 0
-            texture: 7Krn257QNQT37Q
-            playAnimationOnStart: false
+            texture: GgCk1fwPDqDpj8
+            playAnimationOnStart: true
             loopAnimation: true
-            animationFPS: 30
+            animationFPS: 4
             visible: true
             events:
               - eventKey: OnStep
@@ -696,11 +855,14 @@ assets:
                 code: |-
                   this.speed = 150;
                   this.direction = 0;
+                  this.scale.x = 2;
+                  this.scale.y = 2;
                 arguments: {}
                 lib: core
             extends:
               cgroup: Nemici
-            lastmod: 1774251429249
+              'editor:myCollidingCGroups': []
+            lastmod: 1775407212658
             uid: MPdrNr8hhh5b2R
             behaviors: []
             extendTypes: ''
@@ -711,61 +873,6 @@ assets:
         name: Collezionabili
         lastmod: 1774434010865
         entries:
-          - lastmod: 1774434052749
-            type: texture
-            name: Spazzatura_piccola
-            untill: 0
-            grid:
-              - 1
-              - 1
-            axis:
-              - 0
-              - 0
-            marginx: 0
-            marginy: 0
-            imgWidth: 64
-            imgHeight: 64
-            width: 64
-            height: 64
-            offx: 0
-            offy: 0
-            origname: if6C1t9dPCH6rwz.png
-            shape: rect
-            left: 0
-            right: 64
-            top: 0
-            bottom: 64
-            uid: f6C1t9dPCH6rwz
-            padding: 1
-            isBlank: false
-          - lastmod: 1774434744257
-            type: texture
-            name: Spazzatura_grande
-            untill: 0
-            grid:
-              - 1
-              - 1
-            axis:
-              - 32
-              - 32
-            marginx: 0
-            marginy: 0
-            imgWidth: 64
-            imgHeight: 64
-            width: 64
-            height: 64
-            offx: 0
-            offy: 0
-            origname: i2JtFWz3rPzL3R7.png
-            shape: circle
-            left: 32
-            right: 32
-            top: 32
-            bottom: 32
-            uid: 2JtFWz3rPzL3R7
-            padding: 1
-            isBlank: false
-            r: 23
           - type: template
             baseClass: AnimatedSprite
             name: Spazzatura_grande
@@ -893,33 +1000,6 @@ assets:
             lastmod: 1774857787858
             type: tandem
             previewTexture: RTT9rNng3HQmPJ
-          - lastmod: 1774856522279
-            type: texture
-            name: Bolle
-            untill: 0
-            grid:
-              - 1
-              - 1
-            axis:
-              - 0
-              - 0
-            marginx: 0
-            marginy: 0
-            imgWidth: 64
-            imgHeight: 64
-            width: 64
-            height: 64
-            offx: 0
-            offy: 0
-            origname: iRTT9rNng3HQmPJ.png
-            shape: rect
-            left: 0
-            right: 64
-            top: 0
-            bottom: 64
-            uid: RTT9rNng3HQmPJ
-            padding: 1
-            isBlank: false
           - type: template
             baseClass: AnimatedSprite
             name: Bolle
@@ -943,6 +1023,30 @@ assets:
             uid: F5fWzk4DBQT5Cd
             behaviors: []
             extendTypes: ''
+          - type: template
+            baseClass: AnimatedSprite
+            name: Spazatura_piccola
+            depth: 0
+            texture: f6C1t9dPCH6rwz
+            playAnimationOnStart: false
+            loopAnimation: true
+            animationFPS: 30
+            visible: true
+            events:
+              - eventKey: collisionTemplate
+                code: |-
+                  this.kill = true;
+                  score[0] += 100;
+                arguments:
+                  template: DL9BczP5Cd4RMz
+                lib: place
+            extends:
+              cgroup: ''
+              'editor:myCollidingCGroups': []
+            lastmod: 1775405658456
+            uid: zG7nGRb2Bbht5p
+            behaviors: []
+            extendTypes: ''
       - type: template
         baseClass: AnimatedSprite
         name: ZonaPunti
@@ -952,15 +1056,11 @@ assets:
         loopAnimation: true
         animationFPS: 30
         visible: true
-        events:
-          - eventKey: OnStep
-            lib: core
-            code: this.move();
-            arguments: {}
+        events: []
         extends:
           cgroup: ''
           'editor:myCollidingCGroups': []
-        lastmod: 1775396506069
+        lastmod: 1775405567666
         uid: w2cpWbbRcqhr4F
         behaviors: []
         extendTypes: ''
@@ -23204,7 +23304,7 @@ assets:
             bindings: {}
         tiles: []
         extends: {}
-        lastmod: 1775397357453
+        lastmod: 1775405480589
         events:
           - eventKey: OnRoomStart
             code: |
@@ -23299,11 +23399,11 @@ assets:
             bindings: {}
         tiles: []
         extends: {}
-        lastmod: 1775397497917
+        lastmod: 1775407243736
         events:
           - eventKey: OnRoomStart
             code: |+
-              countDown = 10; 
+              countDown = 60; 
 
               this.isOver = false;
 
@@ -23317,12 +23417,12 @@ assets:
                   countDown -= u.time;
 
                   let timeInSec = Math.ceil(countDown);
-                  if (timeInSec < 0) { timeInSec = 0; }
+                  if (timeInSec < 0) timeInSec = 0;
                   
                   let timerText = templates.list['Timer'][0];
 
                   if (timerText) {
-                      timerText.text = timeInSec.toString();
+                      timerText.text = "Tempo rimasto: " + timeInSec.toString();
                   }
 
                   if (countDown <= 0) {
@@ -23332,7 +23432,8 @@ assets:
                           timerText.text = "FINE!";
                       }
                       
-                      pause.togglePaused()
+                      pause.togglePaused();
+                      rooms.switch("risultati");
                   }
               }
             arguments: {}
@@ -23370,8 +23471,8 @@ assets:
             parallaxY: 0
             movementX: 25
             movementY: 0
-            scaleX: 3
-            scaleY: 3
+            scaleX: 2
+            scaleY: 2
             repeat: repeat
         copies:
           - x: 256
@@ -23412,7 +23513,7 @@ assets:
             hidden: false
             cache: true
         extends: {}
-        lastmod: 1775397214846
+        lastmod: 1775405889256
         events:
           - eventKey: OnRoomStart
             code: const score = new Array(2).fill(0);
@@ -23421,6 +23522,77 @@ assets:
         behaviors: []
         extendTypes: ''
         uid: n8zd3bf8c5jPWg
+      - type: room
+        oncreate: ''
+        onstep: ''
+        ondraw: ''
+        onleave: ''
+        gridX: 64
+        gridY: 64
+        diagonalGrid: false
+        disableGrid: false
+        simulate: true
+        width: 1280
+        height: 720
+        restrictCamera: false
+        restrictMaxX: 1280
+        restrictMinX: 0
+        restrictMaxY: 720
+        restrictMinY: 0
+        isUi: false
+        name: risultati
+        backgroundColor: '#000000'
+        follow: -1
+        backgrounds:
+          - depth: 0
+            texture: 6H77NK9zKkdKCC
+            shiftX: 0
+            shiftY: 0
+            parallaxX: 1
+            parallaxY: 1
+            movementX: 0
+            movementY: 0
+            scaleX: 1
+            scaleY: 1
+            repeat: repeat
+        copies:
+          - x: 64
+            'y': 64
+            opacity: 1
+            tint: 16777215
+            scale:
+              x: 1
+              'y': 1
+            rotation: 0
+            uid: TPkR7Gqr26Q4hp
+            exts: {}
+            customProperties: {}
+            customText: !<tag:yaml.org,2002:js/undefined> ''
+            customSize: !<tag:yaml.org,2002:js/undefined> ''
+            customWordWrap: !<tag:yaml.org,2002:js/undefined> ''
+            bindings: {}
+          - x: 64
+            'y': 640
+            opacity: 1
+            tint: 16777215
+            scale:
+              x: 1
+              'y': 1
+            rotation: 0
+            uid: TPkR7Gqr26Q4hp
+            exts: {}
+            customProperties: {}
+            customText: !<tag:yaml.org,2002:js/undefined> ''
+            customSize: !<tag:yaml.org,2002:js/undefined> ''
+            customWordWrap: !<tag:yaml.org,2002:js/undefined> ''
+            bindings: {}
+        tiles: []
+        extends: {}
+        lastmod: 1775406170397
+        events: []
+        behaviors: []
+        extendTypes: ''
+        uid: Cz8bGmhtp2FdWr
 globalVars:
   - name: countDown
     value: '60'
